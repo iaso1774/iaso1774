@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iaso1774, but you can call me Ian.
-- 👀 I’m interested in getting immersed into the world of computer science and figuring out my interests. 
-- 🌱 I’m currently a Sophomore at CU Boulder majoring in Computer Science and Applied Mathematics.
+- 👀 I’m interested in probability, mathematical modeling, and machine learning. 
+- 🌱 I’m currently a Junior at CU Boulder majoring in Computer Science and Applied Mathematics.
 - 💞️ I’m looking to collaborate on any basic projects that'll expand my knowledge on the industry of computer science as a whole.
-- 📫 How to reach me: I'm on LinkedIn at linkedin.com/in/ian-soukup-6b3a31249 and Twitter @IanSoukup. Hit me up if you want to do anything Computer Science-y at all!
+- 📫 How to reach me: I'm on LinkedIn at linkedin.com/in/ian-soukup. Hit me up if you want to do anything Computer Science-y at all!
